@@ -86,6 +86,6 @@ func main() {
 		}
 
 		lastReadLogLine = len(logLines)
-		time.Sleep(3 * time.Second)
+		time.Sleep(1 * time.Second)
 	}
 }
